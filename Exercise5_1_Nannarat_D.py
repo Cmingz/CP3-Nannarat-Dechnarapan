@@ -1,0 +1,6 @@
+firstNum = int(input("First Number:"))
+secondNum = int(input("Second Number:"))
+print(firstNum, "+", secondNum, "=", firstNum+secondNum)
+print(firstNum, "-", secondNum, "=", firstNum-secondNum)
+print(firstNum, "*", secondNum, "=", firstNum*secondNum)
+print(firstNum, "/", secondNum, "=", int(firstNum/secondNum))
